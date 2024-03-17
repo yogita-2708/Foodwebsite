@@ -10,7 +10,6 @@ Welcome to the Resto. Food Website! This repository contains the source code for
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 
 ## Project Overview
@@ -42,34 +41,6 @@ Follow these instructions to set up the project on your local machine.
 Before you begin, make sure you have the following software installed:
 
 - **Node.js**: You can download it from [https://nodejs.org/](https://nodejs.org/).
-
-### Installation
-
-1. Clone the repository to your local machine using Git:
-
-   ```bash
-   git clone https://github.com/yourusername/Foodwebsite.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Foodwebsite
-   ```
-
-3. Install the necessary Node.js packages:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm start
-   ```
-
-5. Open your web browser and access the website locally at [http://localhost:3000](http://localhost:3000).
 
 ## Usage
 
